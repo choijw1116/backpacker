@@ -1,0 +1,13 @@
+.line {
+  /* border: 1px solid red; */
+  width: 100px;
+  height: 20px;
+}
+.label {
+  /* border: 1px solid blue; */
+  display: inline-block;
+}
+
+.star {
+  cursor: pointer;
+}

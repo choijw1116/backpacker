@@ -1,0 +1,63 @@
+.t-outline {
+  /* border: 1px solid black; */
+  width: 500px;
+  height: 250px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.textarea {
+  /* border: 1px solid green; */
+  display: flex;
+}
+.t-wrap {
+  width: 100%;
+  border: 1px solid black;
+  display: flex;
+  border-radius: 2px;
+}
+#wrapstyle {
+  border: 1px solid red;
+}
+
+#text {
+  border: 1px solid black;
+  border-radius: 2px;
+  width: 495px;
+  height: 40px;
+  margin-top: 10px;
+}
+.before,
+.after {
+  width: 100%;
+  height: 40px;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.after {
+}
+
+.remainchars {
+  padding-top: 25px;
+  margin: 5px;
+}
+.disabled {
+  background-color: lightgrey;
+  padding-left: 5px;
+  padding-top: 5px;
+}
+.readonly {
+  padding-left: 5px;
+  padding-top: 5px;
+}
+.textinput {
+  border: 1px solid black;
+}
+
+.btn {
+  border: 1px solid grey;
+  border-radius: 2px;
+  width: 40px;
+  height: 60px;
+  margin-left: 5px;
+}

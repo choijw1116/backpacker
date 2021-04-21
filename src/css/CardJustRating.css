@@ -1,0 +1,37 @@
+.just-outline {
+  border: 2px solid lightgrey;
+  width: 200px;
+  height: 370px;
+  display: inline-block;
+  margin-left: 10px;
+}
+.justcard-info {
+  padding: 5px;
+}
+.just-img {
+  /* border: 1px solid green; */
+  width: 200px;
+  height: 200px;
+}
+.justcard-label {
+  font-size: 11px;
+  color: grey;
+}
+
+.just-wrap {
+  margin-top: 35px;
+}
+.just-highlight {
+  color: red;
+}
+.just-crossout {
+  text-decoration: line-through;
+  color: grey;
+  padding-left: 5px;
+}
+.just-ratingwrap {
+  border-top: 2px solid lightgrey;
+  margin-top: 14px;
+  padding-top: 15px;
+  padding-left: 5px;
+}

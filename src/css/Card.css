@@ -1,0 +1,45 @@
+.outline {
+  border: 2px solid lightgrey;
+  width: 200px;
+  height: 370px;
+  display: inline-block;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.card-info {
+  padding: 5px;
+}
+.img {
+  /* border: 1px solid green; */
+  width: 200px;
+  height: 200px;
+}
+.card-label {
+  font-size: 11px;
+  color: grey;
+}
+.card-title {
+}
+.wrap {
+  margin-top: 35px;
+}
+.highlight {
+  color: red;
+}
+.crossout {
+  text-decoration: line-through;
+  color: grey;
+  padding-left: 5px;
+}
+.ratingwrap {
+  border-top: 2px solid lightgrey;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+.ratingtext {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  padding-top: 5px;
+}
